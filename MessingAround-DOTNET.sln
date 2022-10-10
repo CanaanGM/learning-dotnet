@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing_metrics", "testing_metrics\testing_metrics.csproj", "{015D6AA4-BCC4-41FD-9AED-B1BC6FFB83C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metrics.API", "metrics.API\metrics.API.csproj", "{883127F9-775D-4BC5-A799-BA27074B027C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015D6AA4-BCC4-41FD-9AED-B1BC6FFB83C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015D6AA4-BCC4-41FD-9AED-B1BC6FFB83C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015D6AA4-BCC4-41FD-9AED-B1BC6FFB83C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015D6AA4-BCC4-41FD-9AED-B1BC6FFB83C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883127F9-775D-4BC5-A799-BA27074B027C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883127F9-775D-4BC5-A799-BA27074B027C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883127F9-775D-4BC5-A799-BA27074B027C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883127F9-775D-4BC5-A799-BA27074B027C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C560E56B-DDB7-4A6F-A9B0-35D650BE73A5}
+	EndGlobalSection
+EndGlobal
